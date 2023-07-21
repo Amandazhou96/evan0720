@@ -1,8 +1,0 @@
-ll
-date
-ls
-touch 1.sh
-echo "dsafdsa" > 1.txt
-date
-ld
-vi 1.txt
